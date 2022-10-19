@@ -1,0 +1,221 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "EpsilonAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/staffmember/add": {
+      "post": {
+        "tags": [
+          "StafffMember"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/StaffMember"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/staffmember/login/{email}/{password}": {
+      "get": {
+        "tags": [
+          "StafffMember"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "email",
+            "required": true,
+            "type": "string"
+          },
+          {
+            "in": "path",
+            "name": "password",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/staffmember/get/Staff_Num/{Staff_Num}": {
+      "get": {
+        "tags": [
+          "StafffMember"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "Staff_Num",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/staffmember/update": {
+      "put": {
+        "tags": [
+          "StafffMember"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/StaffMember"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/staffmember/delete": {
+      "delete": {
+        "tags": [
+          "StafffMember"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "staff_num",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "query",
+            "name": "password",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/WeatherForecast"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "StaffMember": {
+      "required": [
+        "staff_Contact_No",
+        "staff_Email",
+        "staff_Name",
+        "staff_Password",
+        "staff_Surname",
+        "staff_Type"
+      ],
+      "type": "object",
+      "properties": {
+        "staff_Num": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "staff_Name": {
+          "maxLength": 50,
+          "type": "string"
+        },
+        "staff_Surname": {
+          "maxLength": 50,
+          "type": "string"
+        },
+        "staff_Email": {
+          "maxLength": 50,
+          "type": "string"
+        },
+        "staff_Password": {
+          "maxLength": 255,
+          "type": "string"
+        },
+        "staff_Contact_No": {
+          "maxLength": 50,
+          "type": "string"
+        },
+        "staff_Type": {
+          "maxLength": 50,
+          "type": "string"
+        }
+      }
+    },
+    "WeatherForecast": {
+      "type": "object",
+      "properties": {
+        "date": {
+          "format": "date-time",
+          "type": "string"
+        },
+        "temperatureC": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "temperatureF": {
+          "format": "int32",
+          "type": "integer",
+          "readOnly": true
+        },
+        "summary": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

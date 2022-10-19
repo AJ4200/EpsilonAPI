@@ -1,0 +1,192 @@
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.exe
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.deps.json
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.runtimeconfig.json
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.pdb
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.SqlServer.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.csproj.AssemblyReference.cache
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.AssemblyInfoInputs.cache
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.AssemblyInfo.cs
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.csproj.CoreCompileInputs.cache
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\scopedcss\bundle\EpsilonAPI.styles.css
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.csproj.CopyComplete
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\refint\EpsilonAPI.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.pdb
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.genruntimeconfig.cache
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\ref\EpsilonAPI.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.exe
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.deps.json
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.runtimeconfig.json
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.pdb
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.SqlServer.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.csproj.AssemblyReference.cache
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.Properties.Resources.resources
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.csproj.GenerateResource.cache
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.AssemblyInfoInputs.cache
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.AssemblyInfo.cs
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.csproj.CoreCompileInputs.cache
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\scopedcss\bundle\EpsilonAPI.styles.css
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.csproj.CopyComplete
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\refint\EpsilonAPI.dll
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.pdb
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.genruntimeconfig.cache
+C:\Users\ethan\OneDrive\Desktop\git projects\Team50\EpsilonAPI\obj\Debug\net6.0\ref\EpsilonAPI.dll
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.Properties.Resources.resources
+C:\Users\abelj\Documents\GitHub\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.csproj.GenerateResource.cache
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\appsettings.json
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.exe
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.deps.json
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.runtimeconfig.json
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\EpsilonAPI.pdb
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Humanizer.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.SqlServer.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.csproj.AssemblyReference.cache
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.Properties.Resources.resources
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.csproj.GenerateResource.cache
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.AssemblyInfoInputs.cache
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.AssemblyInfo.cs
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.csproj.CoreCompileInputs.cache
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\scopedcss\bundle\EpsilonAPI.styles.css
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.csproj.CopyComplete
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\refint\EpsilonAPI.dll
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.pdb
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\EpsilonAPI.genruntimeconfig.cache
+C:\UJ\Informatics\IFM3A\JustInCaseOldRepo\Team50\EpsilonAPI\obj\Debug\net6.0\ref\EpsilonAPI.dll
